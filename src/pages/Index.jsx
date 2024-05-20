@@ -15,7 +15,13 @@ const Index = () => {
           </Text>
         </Box>
 
-        {/* Hero Image */}
+        {}
+        <Box w="100%" borderRadius="lg" overflow="hidden">
+          <Image src="https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxyZXN0YXVyYW50JTIwaW50ZXJpb3J8ZW58MHx8fHwxNzE2MjA2MzY2fDA&ixlib=rb-4.0.3&q=80&w=1080" alt="Restaurant Interior" />
+        </Box>
+        <Box w="100%" borderRadius="lg" overflow="hidden">
+          <Image src="https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxyZXN0YXVyYW50JTIwaW50ZXJpb3J8ZW58MHx8fHwxNzE2MjA2MzY2fDA&ixlib=rb-4.0.3&q=80&w=1080" alt="Restaurant Interior" />
+        </Box>
         <Box w="100%" borderRadius="lg" overflow="hidden">
           <Image src="https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxyZXN0YXVyYW50JTIwaW50ZXJpb3J8ZW58MHx8fHwxNzE2MjA2MzY2fDA&ixlib=rb-4.0.3&q=80&w=1080" alt="Restaurant Interior" />
         </Box>
